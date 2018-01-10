@@ -11,8 +11,6 @@ public class Player : MonoBehaviour {
     private bool Jump;
 
 
-
-
     // Use this for initialization
     void Start () {
 
